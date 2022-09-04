@@ -1,0 +1,7 @@
+1. youtube lecture link: https://www.youtube.com/watch?v=MqDlsjc8GLo&t=1417s
+
+2. Create nextjs + tailwindcss template: npx create-next-app -e with-tailwindcss [folder-name]
+
+3. Package install
+- heroicons: npm install @heroicons/react@v1
+
