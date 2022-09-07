@@ -5,3 +5,10 @@
 3. Package install
 - heroicons: npm install @heroicons/react@v1
 
+4. Hosting process from Hostinger.com
+- Git push the final codes to the origin in Github
+- Go to vercel.com and log in with your github profile
+- Add a new project and import the git repository
+- Set environment variables from your .env.local file like below
+  * API-KEY: ebd5450a1c1a23e8b1dd4920ad0a7f77
+- And Deploy
